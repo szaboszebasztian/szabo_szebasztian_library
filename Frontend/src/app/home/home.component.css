@@ -1,0 +1,15 @@
+*{
+    min-width: 400px;
+    background: url(../../assets/Bg.jpg) center center no-repeat;
+}
+h1{
+    background-color: green 60%;
+    color: white;
+    size: 20rem;
+    margin-top: 2vh;
+}
+.pictures{
+    border: 10px solid #a1d336;
+    width: 50vw;
+    margin-top: 5vh;
+}

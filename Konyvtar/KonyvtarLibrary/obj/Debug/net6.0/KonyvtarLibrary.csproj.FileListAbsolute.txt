@@ -1,0 +1,14 @@
+C:\Users\diak\Downloads\szabo_szebasztian_library\Konyvtar\KonyvtarLibrary\bin\Debug\net6.0\KonyvtarLibrary.deps.json
+C:\Users\diak\Downloads\szabo_szebasztian_library\Konyvtar\KonyvtarLibrary\bin\Debug\net6.0\KonyvtarLibrary.runtimeconfig.json
+C:\Users\diak\Downloads\szabo_szebasztian_library\Konyvtar\KonyvtarLibrary\bin\Debug\net6.0\KonyvtarLibrary.dll
+C:\Users\diak\Downloads\szabo_szebasztian_library\Konyvtar\KonyvtarLibrary\bin\Debug\net6.0\KonyvtarLibrary.pdb
+C:\Users\diak\Downloads\szabo_szebasztian_library\Konyvtar\KonyvtarLibrary\obj\Debug\net6.0\KonyvtarLibrary.csproj.AssemblyReference.cache
+C:\Users\diak\Downloads\szabo_szebasztian_library\Konyvtar\KonyvtarLibrary\obj\Debug\net6.0\KonyvtarLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diak\Downloads\szabo_szebasztian_library\Konyvtar\KonyvtarLibrary\obj\Debug\net6.0\KonyvtarLibrary.AssemblyInfoInputs.cache
+C:\Users\diak\Downloads\szabo_szebasztian_library\Konyvtar\KonyvtarLibrary\obj\Debug\net6.0\KonyvtarLibrary.AssemblyInfo.cs
+C:\Users\diak\Downloads\szabo_szebasztian_library\Konyvtar\KonyvtarLibrary\obj\Debug\net6.0\KonyvtarLibrary.csproj.CoreCompileInputs.cache
+C:\Users\diak\Downloads\szabo_szebasztian_library\Konyvtar\KonyvtarLibrary\obj\Debug\net6.0\KonyvtarLibrary.dll
+C:\Users\diak\Downloads\szabo_szebasztian_library\Konyvtar\KonyvtarLibrary\obj\Debug\net6.0\refint\KonyvtarLibrary.dll
+C:\Users\diak\Downloads\szabo_szebasztian_library\Konyvtar\KonyvtarLibrary\obj\Debug\net6.0\KonyvtarLibrary.pdb
+C:\Users\diak\Downloads\szabo_szebasztian_library\Konyvtar\KonyvtarLibrary\obj\Debug\net6.0\KonyvtarLibrary.genruntimeconfig.cache
+C:\Users\diak\Downloads\szabo_szebasztian_library\Konyvtar\KonyvtarLibrary\obj\Debug\net6.0\ref\KonyvtarLibrary.dll
